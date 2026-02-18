@@ -1,0 +1,15 @@
+[
+    {
+        "fiscal_year": "2569",
+        "start_date": "1/10/68",
+        "end_date": "30/9/69",
+        "rounds": [
+            {
+                "end_date": "30/09/69",
+                "name": "รอบยื่น",
+                "start_date": "01/10/68",
+                "type": "submission"
+            }
+        ]
+    }
+]

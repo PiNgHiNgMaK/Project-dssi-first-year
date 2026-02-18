@@ -1,0 +1,210 @@
+[
+    {
+        "id": "NOTIF-20260218103317-2c35ad23",
+        "message": "คำขอ REQ-25690218103310 ถูกยกเลิกโดยผู้ยื่น",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690218103310",
+        "is_read": true,
+        "timestamp": "18/02/2569 10:33"
+    },
+    {
+        "id": "NOTIF-20260218103310-dceae150",
+        "message": "มีคำขอใหม่ REQ-25690218103310 จาก นาย ผศ. สมชาย",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690218103310",
+        "is_read": true,
+        "timestamp": "18/02/2569 10:33"
+    },
+    {
+        "id": "NOTIF-20260218095820-7fbd0133",
+        "message": "คำขอ REQ-25690218095516 ถูกส่งคืนแก้ไข: ผลงานเคยถูกใช้แล้ว",
+        "recipient_role": null,
+        "recipient_username": "user01",
+        "req_id": "REQ-25690218095516",
+        "is_read": true,
+        "timestamp": "18/02/2569 09:58"
+    },
+    {
+        "id": "NOTIF-20260218095719-800f5055",
+        "message": "พบงานซ้ำซ้อนทั้งหมดในคำขอ REQ-25690218095516",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690218095516",
+        "is_read": false,
+        "timestamp": "18/02/2569 09:57"
+    },
+    {
+        "id": "NOTIF-20260218095538-53e06b96",
+        "message": "คำขอ REQ-25690218095516 รอตรวจประวัติการยื่นขอ",
+        "recipient_role": "research",
+        "recipient_username": null,
+        "req_id": "REQ-25690218095516",
+        "is_read": true,
+        "timestamp": "18/02/2569 09:55"
+    },
+    {
+        "id": "NOTIF-20260218095516-039cc8ed",
+        "message": "มีคำขอใหม่ REQ-25690218095516 จาก นาย ผศ. สมชาย",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690218095516",
+        "is_read": false,
+        "timestamp": "18/02/2569 09:55"
+    },
+    {
+        "id": "NOTIF-20260218095239-5677b234",
+        "message": "ตรวจสอบผลงานคำขอ REQ-25690218094825 เรียบร้อยแล้ว (ถูกต้องทั้งหมด)",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690218094825",
+        "is_read": false,
+        "timestamp": "18/02/2569 09:52"
+    },
+    {
+        "id": "NOTIF-20260218095000-c13b8332",
+        "message": "คำขอ REQ-25690218094825 รอตรวจประวัติการยื่นขอ",
+        "recipient_role": "research",
+        "recipient_username": null,
+        "req_id": "REQ-25690218094825",
+        "is_read": false,
+        "timestamp": "18/02/2569 09:50"
+    },
+    {
+        "id": "NOTIF-20260218094825-2c18f498",
+        "message": "มีคำขอใหม่ REQ-25690218094825 จาก นาย ศ. สมเกียรติยศ",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690218094825",
+        "is_read": false,
+        "timestamp": "18/02/2569 09:48"
+    },
+    {
+        "id": "NOTIF-20260218094522-fc2c0723",
+        "message": "มีคำขอใหม่ REQ-25690218094522 จาก นาย ศ. สมเกียรติยศ",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690218094522",
+        "is_read": false,
+        "timestamp": "18/02/2569 09:45"
+    },
+    {
+        "id": "NOTIF-20260218093757-0b3a805c",
+        "message": "คำขอ REQ-25690218093725 รอตรวจประวัติการยื่นขอ",
+        "recipient_role": "research",
+        "recipient_username": null,
+        "req_id": "REQ-25690218093725",
+        "is_read": false,
+        "timestamp": "18/02/2569 09:37"
+    },
+    {
+        "id": "NOTIF-20260218093725-59e4b7a8",
+        "message": "มีคำขอใหม่ REQ-25690218093725 จาก นาย ศ. สมเกียรติยศ",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690218093725",
+        "is_read": true,
+        "timestamp": "18/02/2569 09:37"
+    },
+    {
+        "id": "NOTIF-20260218093331-53e180a5",
+        "message": "คำขอ REQ-25690218093138 ถูกส่งคืนแก้ไข: ผลงานเคยถูกใช้แล้ว",
+        "recipient_role": null,
+        "recipient_username": "user02",
+        "req_id": "REQ-25690218093138",
+        "is_read": true,
+        "timestamp": "18/02/2569 09:33"
+    },
+    {
+        "id": "NOTIF-20260218093253-6922e37f",
+        "message": "พบงานซ้ำซ้อนทั้งหมดในคำขอ REQ-25690218093138",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690218093138",
+        "is_read": false,
+        "timestamp": "18/02/2569 09:32"
+    },
+    {
+        "id": "NOTIF-20260218093202-ef513bda",
+        "message": "คำขอ REQ-25690218093138 รอตรวจประวัติการยื่นขอ",
+        "recipient_role": "research",
+        "recipient_username": null,
+        "req_id": "REQ-25690218093138",
+        "is_read": false,
+        "timestamp": "18/02/2569 09:32"
+    },
+    {
+        "id": "NOTIF-20260218093138-1b89c1cb",
+        "message": "มีคำขอใหม่ REQ-25690218093138 จาก นาง รศ. สมหญิง",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690218093138",
+        "is_read": false,
+        "timestamp": "18/02/2569 09:31"
+    },
+    {
+        "id": "NOTIF-20260218092722-52200f09",
+        "message": "ตรวจสอบผลงานคำขอ REQ-25690218092551 เรียบร้อยแล้ว (ถูกต้องทั้งหมด)",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690218092551",
+        "is_read": false,
+        "timestamp": "18/02/2569 09:27"
+    },
+    {
+        "id": "NOTIF-20260218092623-33634338",
+        "message": "คำขอ REQ-25690218092551 รอตรวจประวัติการยื่นขอ",
+        "recipient_role": "research",
+        "recipient_username": null,
+        "req_id": "REQ-25690218092551",
+        "is_read": true,
+        "timestamp": "18/02/2569 09:26"
+    },
+    {
+        "id": "NOTIF-20260218092551-678afd93",
+        "message": "มีคำขอใหม่ REQ-25690218092551 จาก นาย ผศ. สมชาย",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690218092551",
+        "is_read": false,
+        "timestamp": "18/02/2569 09:25"
+    },
+    {
+        "id": "NOTIF-20260123123607-d6cc513f",
+        "message": "คำขอ REQ-25690123122926 ได้รับการอนุมัติแล้ว",
+        "recipient_role": null,
+        "recipient_username": "user03",
+        "req_id": "REQ-25690123122926",
+        "is_read": false,
+        "timestamp": "23/01/2569 12:36"
+    },
+    {
+        "id": "NOTIF-20260123123529-77824039",
+        "message": "มีการยื่นอุทธรณ์คำขอ REQ-25690123122926 (1 รายการ)",
+        "recipient_role": "committee",
+        "recipient_username": null,
+        "req_id": "REQ-25690123122926",
+        "is_read": true,
+        "timestamp": "23/01/2569 12:35"
+    },
+    {
+        "id": "NOTIF-20260123123143-4c012e4b",
+        "message": "ตรวจสอบผลงานคำขอ REQ-25690123122926 เรียบร้อยแล้ว (ถูกต้องทั้งหมด)",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690123122926",
+        "is_read": true,
+        "timestamp": "23/01/2569 12:31"
+    },
+    {
+        "id": "NOTIF-20260123123104-01036927",
+        "message": "คำขอ REQ-25690123122926 รอตรวจประวัติการยื่นขอ",
+        "recipient_role": "research",
+        "recipient_username": null,
+        "req_id": "REQ-25690123122926",
+        "is_read": true,
+        "timestamp": "23/01/2569 12:31"
+    },
+    {}
+]

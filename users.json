@@ -1,0 +1,78 @@
+[
+    {
+        "username": "user01",
+        "password": "123",
+        "role": "applicant",
+        "name": "ผศ. สมชาย",
+        "title_name": "นาย",
+        "academic_position": "ผู้ช่วยศาสตราจารย์",
+        "position_date": "01/01/2560",
+        "position_number": "12345",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "faculty": "วิทยาศาสตร์"
+    },
+    {
+        "username": "user02",
+        "password": "123",
+        "role": "applicant",
+        "name": "รศ. สมหญิง",
+        "title_name": "นาง",
+        "academic_position": "รองศาสตราจารย์",
+        "position_date": "15/05/2558",
+        "position_number": "54321",
+        "department": "คณิตศาสตร์",
+        "faculty": "วิทยาศาสตร์"
+    },
+    {
+        "username": "user03",
+        "password": "123",
+        "role": "applicant",
+        "name": "ศ. สมศักดิ์",
+        "title_name": "นาย",
+        "academic_position": "ศาสตราจารย์",
+        "position_date": "10/10/2555",
+        "position_number": "99887",
+        "department": "ฟิสิกส์",
+        "faculty": "วิทยาศาสตร์"
+    },
+    {
+        "username": "user04",
+        "password": "123",
+        "role": "applicant",
+        "name": "ศ. สมเกียรติยศ",
+        "title_name": "นาย",
+        "academic_position": "ผู้ช่วยศาสตราจารย์",
+        "position_date": "10/10/2555",
+        "position_number": "12345",
+        "department": "วิทยาการคอมพิวเตอร์",
+        "faculty": "วิทยาศาสตร์"
+    },
+    {
+        "username": "admin_work",
+        "password": "123",
+        "role": "administration",
+        "name": "เจ้าหน้าที่งานบุคคล",
+        "title_name": "นาย"
+    },
+    {
+        "username": "research01",
+        "password": "123",
+        "role": "research",
+        "name": "เจ้าหน้าที่งานวิจัย",
+        "title_name": "นาง"
+    },
+    {
+        "username": "board01",
+        "password": "123",
+        "role": "committee",
+        "name": "คณะกรรมการประจำคณะ",
+        "title_name": "นาย"
+    },
+    {
+        "username": "root",
+        "password": "123",
+        "role": "admin",
+        "name": "ผู้ดูแลระบบ",
+        "title_name": "นาย"
+    }
+]

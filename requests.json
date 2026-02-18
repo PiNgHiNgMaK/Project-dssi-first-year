@@ -1,0 +1,53 @@
+[
+    {
+        "id": "REQ-25690218094825",
+        "applicant": "user04",
+        "applicant_name": "นาย ศ. สมเกียรติยศ",
+        "applicant_info": {
+            "title_name": "นาย",
+            "academic_position": "ผู้ช่วยศาสตราจารย์",
+            "position_date": "10/10/2555",
+            "position_number": "12345",
+            "department": "วิทยาการคอมพิวเตอร์",
+            "faculty": "วิทยาศาสตร์"
+        },
+        "fiscal_year": "2569",
+        "works": [
+            {
+                "type": "research",
+                "details": {
+                    "id": 1771382880952,
+                    "evidence_type": "link",
+                    "title": "Fluk",
+                    "vol": "1",
+                    "journal_name": "1",
+                    "month": "1",
+                    "year_pub": "2569",
+                    "date_accept": "2026-02-18",
+                    "date_publish": "2026-02-18",
+                    "evidence_url": "http://127.0.0.1:5000/new_request",
+                    "issue": "1",
+                    "database": "scopus_q1_q2",
+                    "contribution": "first"
+                },
+                "base_score": 1.25,
+                "weight": 1.0,
+                "score_calc": 1.25,
+                "score_breakdown": "ฐาน 1.25 (Scopus Q1/Q2) x น้ำหนัก 1.0",
+                "payment_calc": 0,
+                "status": "อนุมัติ"
+            }
+        ],
+        "date": "18/02/2569 09:48",
+        "status": "อนุมัติ",
+        "score": 1.25,
+        "suggested_compensation": 5600.0,
+        "comment": "",
+        "timeline_status": "ontime",
+        "certify": true,
+        "approved_amount": 5600.0,
+        "total_score": 1.25,
+        "total_compensation": 5600.0,
+        "batch_id": "ROUND-20260218095310"
+    }
+]
